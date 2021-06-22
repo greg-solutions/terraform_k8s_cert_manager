@@ -1,3 +1,6 @@
+DEPRECATED MOVED TO https://registry.terraform.io/modules/terraform-iaac/cert-manager/kubernetes/latest
+==========================================
+
 ### Terraform K8S module for Automatically provision and manage TLS certificates in Kubernetes
 
 #### Step to activate custom provider:
